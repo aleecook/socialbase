@@ -14,8 +14,6 @@ instructions:
 3. Go to the database and select the "Import" tab
 4. Upload the "sql.sql" file there 5. Click import Done! (Please add my name as a token of gratitude!))
 
-Created for the HAMSTER GAMES channel
-
 (russian)
 Эта соц. сеть является БАЗОЙ для ваших проектов!
 Пример: https://boksov7362.temp.swtest.ru
@@ -35,5 +33,3 @@ Created for the HAMSTER GAMES channel
 
 Готово!
 (Просьба добавить моё имя в знак благодарности!))
-
-Создано для канала HAMSTER GAMES
