@@ -1,6 +1,5 @@
 ## (English)
 This social network is a BASE for your projects! 
-Example: https://boksov7362.temp.swtest.ru 
 This database contains: 
 - Comments
 - Publishing and viewing posts
@@ -16,7 +15,6 @@ instructions:
 
 ## (russian)
 Эта соц. сеть является БАЗОЙ для ваших проектов!
-Пример: https://boksov7362.temp.swtest.ru
 В этой базе есть:
 - Комментарии
 - Публикация и просмотр постов
