@@ -1,7 +1,8 @@
-// Created by aleecook! (github - https://github.com/aleecook)
 <?php
 session_start();
 require 'config.php';
+
+// Created by Alecook (GitHub - https://github.com/aleecook)
 
 // Получаем все посты с именами пользователей
 $stmt = $db->prepare("SELECT * FROM posts JOIN users ON posts.user_id = users.id ORDER BY posts.created_at DESC");
