@@ -31,3 +31,14 @@ instructions:
 
 Готово!
 (Просьба добавить моё имя в знак благодарности!))
+
+## Я тута
+
+- Element: [https://elemsocial.com/e/Sanya](https://elemsocial.com/e/Sanya)
+
+- Github: [https://github.com/aleecook](https://github.com/aleecook)
+
+---
+## Подкинуть деньга
+- Boosty: [https://boosty.to/aleecook](https://boosty.to/aleecook)
+
