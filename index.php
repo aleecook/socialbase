@@ -1,4 +1,4 @@
-// Created by aleecook! (github - https://github.com/aleecook) //
+// Created by aleecook! (github - https://github.com/aleecook)
 <?php
 session_start();
 require 'config.php';
